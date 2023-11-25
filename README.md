@@ -3,7 +3,7 @@
 ### Historia del Battlebot
 Somos maestros ingenieros que terminamos en el desierto por problemas con nuestros diseños y quisieron desaparecernos, nos escondimos en una cueva y con las pocas herramientas que nos conseguimos nos las arreglamos para crear un bot tanque para protegernos de cualquier adversario que se nos cruce el cual tiene el unico proposito de convertirse en una fuerza abrumadora para apoyarnos a volver a nuestro hogar
   
-![Robot Ejemplo](/multimedia/battlebot.png)
+![Tanktuga](/multimedia/Battlebot.png)
 
 ## Integrantes
 - Adrían Vásquez - Facultad de diseño, arquitectura y artes
