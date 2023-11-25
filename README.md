@@ -3,7 +3,7 @@
 ### Historia del Battlebot
 Somos maestros ingenieros que terminamos en el desierto por problemas con nuestros diseños y quisieron desaparecernos, nos escondimos en una cueva y con las pocas herramientas que nos conseguimos nos las arreglamos para crear un bot tanque para protegernos de cualquier adversario que se nos cruce el cual tiene el unico proposito de convertirse en una fuerza abrumadora para apoyarnos a volver a nuestro hogar
   
-![Robot Ejemplo](/multimedia/robot_ejemplo.png)
+![Robot Ejemplo](/multimedia/battlebot.png)
 
 ## Integrantes
 - Adrían Vásquez - Facultad de diseño, arquitectura y artes
@@ -17,11 +17,10 @@ Somos maestros ingenieros que terminamos en el desierto por problemas con nuestr
 ### Estrategia utilizada
   
 #### Ofensiva
-< Explicar brevemente el arma utilizada.>
+El robot posee una barra perpendicular al suelo que sobresale por el frente de su carcasa, la cual gira a alta velocidad para acumular energia cinetica para poder chocar al oponente
 
 #### Defensiva
-< Explicar el modo de defensa del robot.>
-
+El robot posee una carcasa de una plancha de acero inoxidable que fue plegada, la cual rodea todos los componentes del robot, dejando solo una hendidura para que salga el arma y espacio para que no toque el suelo
 ### Diagrama funcional
 < Diagrama de bloques general de funcionamiento. Se sugiere un esquema de sistemas, completo.>
 
