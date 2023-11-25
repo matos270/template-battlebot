@@ -1,18 +1,15 @@
-# <Título del proyecto> - <Año>
-< Todo lo que esté entre llaves debe ser editado por ustedes y posteriormente eliminado>
-
-< Insertar una imagen del proyecto terminado, de vista general, como el que aparece abajo>
+# Tanktuga - 2023
 
 ### Historia del Battlebot
-< Contar la historia de vida de su battlebot.>
+Somos maestros ingenieros que terminamos en el desierto por problemas con nuestros diseños y quisieron desaparecernos, nos escondimos en una cueva y con las pocas herramientas que nos conseguimos nos las arreglamos para crear un bot tanque para protegernos de cualquier adversario que se nos cruce el cual tiene el unico proposito de convertirse en una fuerza abrumadora para apoyarnos a volver a nuestro hogar
   
 ![Robot Ejemplo](/multimedia/robot_ejemplo.png)
 
 ## Integrantes
-- <Integrante 1> - < Facultad>
-- <Integrante 2> - < Facultad>
-- <Integrante 3> - < Facultad>
-- <Integrante 4> - < Facultad>
+- Adrían Vásquez - Facultad de diseño, arquitectura y artes
+- Fernando Araya - Facultad de ciencias físicas y matemáticas
+- Matías Romero - Facultad de ciencias físicas y matemáticas
+- Sebastián Cáceres - Facultad de ciencias físicas y matemáticas
 
 
 ## Descripción del proyecto
